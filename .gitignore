@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.venv311/
+.env
+*.egg-info/
+dist/
+build/
+*.db
+backend/loadenv.ps1
