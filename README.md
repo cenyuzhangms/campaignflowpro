@@ -1,6 +1,6 @@
 # CampaignFlow Studio - Human-First Marketing at Scale
 
-CampaignFlow Studio is a multi-agent marketing workflow demo that orchestrates a Planner, Writer, Reviewer, and Publisher using Microsoft Agent Framework. It features a writer-reviewer loop, human-in-the-loop escalation, and a final approval gate before publishing.
+CampaignFlow Studio is a multi-agent marketing workflow demo that combines Azure OpenAI, Claude, and GitHub Copilot agents, orchestrated by Microsoft Agent Framework. It features a writer-reviewer loop, human-in-the-loop escalation, and a final approval gate before publishing.
 
 ![CampaignFlow UI (Light)](assets/campaign-flow-screenshot-light.png)
 
